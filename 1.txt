@@ -1,4 +1,16 @@
 sasd
 redacted on github
 add on PC
+<<<<<<< HEAD
 GITHUB 14:26
+=======
+GITHUB 11:18
+rshr
+y.ry
+ewy
+er
+y
+ag
+ear
+gds
+>>>>>>> doc
